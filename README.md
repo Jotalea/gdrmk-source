@@ -23,6 +23,6 @@ GDRMK is designed to run efficiently on a range of devices. The game requires a 
 GDRMK has a dedicated Discord server where players can engage in discussions, report bugs, and provide feedback to the development team. A custom Discord bot enhances the server's functionality, allowing players to access game-related information and download links.
 
 **Ongoing Development and Updates:**
-The GDRMK project is under active development, with a passionate team committed to enhancing the game's features and performance. Regular updates, bug fixes, and new content additions are part of the long-term plan to ensure an ever-evolving gaming experience. Updates will be uploaded first to the itch.io page.
+The GDRMK project is under active development, with a passionate team committed to enhancing the game's features and performance. Regular updates, bug fixes, and new content additions are part of the long-term plan to ensure an ever-evolving gaming experience. Updates will be uploaded first to the <a href="https://jotalea.itch.io/geometry-dash-rmk"> itch.io </a> page.
 
 Geometry Dash Remake (GDRMK) aims to provide a nostalgic yet revitalized journey for fans of the original game, while embracing modern technologies and online connectivity to create a dynamic and engaging gameplay experience for players worldwide.
