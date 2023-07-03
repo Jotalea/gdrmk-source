@@ -25,4 +25,7 @@ GDRMK has a dedicated Discord server where players can engage in discussions, re
 **Ongoing Development and Updates:**
 The GDRMK project is under active development, with a passionate team committed to enhancing the game's features and performance. Regular updates, bug fixes, and new content additions are part of the long-term plan to ensure an ever-evolving gaming experience. Updates will be uploaded first to the <a href="https://jotalea.itch.io/geometry-dash-rmk"> itch.io </a> page.
 
+**Source code:**
+With each update, the source code of the previous version is made available to the public through GitHub, fostering transparency and community collaboration. Stay up to date with the latest releases and access the source code on the official <a href="https://jotalea.itch.io/geometry-dash-rmk"> itch.io </a> page.
+
 Geometry Dash Remake (GDRMK) aims to provide a nostalgic yet revitalized journey for fans of the original game, while embracing modern technologies and online connectivity to create a dynamic and engaging gameplay experience for players worldwide.
